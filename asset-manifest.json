@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gretad711.github.io/gretadakers/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/gretad711.github.io/gretadakers/static/js/main.c8c1a211.chunk.js",
+    "main.js.map": "/gretad711.github.io/gretadakers/static/js/main.c8c1a211.chunk.js.map",
+    "runtime-main.js": "/gretad711.github.io/gretadakers/static/js/runtime-main.0fd0973a.js",
+    "runtime-main.js.map": "/gretad711.github.io/gretadakers/static/js/runtime-main.0fd0973a.js.map",
+    "static/js/2.f7c88020.chunk.js": "/gretad711.github.io/gretadakers/static/js/2.f7c88020.chunk.js",
+    "static/js/2.f7c88020.chunk.js.map": "/gretad711.github.io/gretadakers/static/js/2.f7c88020.chunk.js.map",
+    "static/js/3.e71e6f2a.chunk.js": "/gretad711.github.io/gretadakers/static/js/3.e71e6f2a.chunk.js",
+    "static/js/3.e71e6f2a.chunk.js.map": "/gretad711.github.io/gretadakers/static/js/3.e71e6f2a.chunk.js.map",
+    "index.html": "/gretad711.github.io/gretadakers/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/gretad711.github.io/gretadakers/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f7c88020.chunk.js.LICENSE.txt": "/gretad711.github.io/gretadakers/static/js/2.f7c88020.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gretad711.github.io/gretadakers/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fd0973a.js",
+    "static/js/2.f7c88020.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c8c1a211.chunk.js"
+  ]
+}
